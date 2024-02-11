@@ -1,8 +1,10 @@
+/*Body Styles*/
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
 
+/*Main Styles*/
 textarea {
   background: transparent;
   border: none;
@@ -12,6 +14,7 @@ textarea {
   padding: 10px;
 }
 
+/*Class Styles*/
 .description {
   white-space: pre-wrap;
 }
