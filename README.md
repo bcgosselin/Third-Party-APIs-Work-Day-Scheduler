@@ -57,6 +57,9 @@ utilized for function saveUserInput
 utilized for function getDate
     https://www.freecodecamp.org/news/javascript-date-time-dayjs/
 
+utilized for function timeBlockColor and function reloadLocalStorage
+    https://stackoverflow.com/questions/59995703/trying-to-change-background-color-based-off-if-the-hour-is-in-the-past-current
+
 
 
 
