@@ -1,6 +1,6 @@
-# module-5-challenge
+# Third-Party-APIs-Work-Day-Scheduler
 
-Full Stack Web Development Project 5
+Developed a daily planner with color-coded time blocks for business hours using jQuery and Day.js. Implemented local storage for persistent event saving and retrieval across page refreshes.
 
 ## Live Web App
 https://bcgosselin.github.io/Third-Party-APIs-Work-Day-Scheduler/
